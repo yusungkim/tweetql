@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.9.4",
-    "graphql": "^16.8.1"
+    "graphql": "^16.8.1",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
